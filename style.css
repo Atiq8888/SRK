@@ -1,0 +1,141 @@
+body {
+    font-family: 'Cabin', sans-serif;
+    margin: 0;
+}
+
+.flexible-contain {
+
+    display: flex;
+    justify-content: center;
+
+
+
+}
+
+section {
+
+    margin-bottom: 100px;
+    justify-content: center;
+
+}
+
+
+
+h1.user-name span {
+    color: blue;
+}
+
+.half-area {
+    width: 45%;
+}
+
+.half-area-two {
+
+    width: 50px;
+}
+
+.half-area h1 {
+
+    font-size: 40px;
+}
+
+
+
+.half-area img {
+
+    width: 80%;
+
+
+}
+
+
+.button-one {
+    color: #ffff;
+    background-color: darkred;
+    padding: 8px 20px;
+    text-transform: uppercase;
+    text-decoration: none;
+    border-radius: 3px;
+    background-image: linear-gradient(black, green);
+}
+
+.header-section {
+    background-image: url(images/top-banner.png);
+    justify-content: center;
+    background-repeat: no-repeat;
+
+
+}
+
+
+.image-two {
+
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right bottom;
+
+}
+
+.Expriance {
+    font-size: 50px;
+}
+
+
+.flexible-contain h4 {
+    color: blueviolet;
+}
+
+
+.flexible-contain h1 {
+    font-size: 50px;
+}
+
+.last-part {
+
+    color: rgb(20, 20, 83);
+    box-shadow: 0px 2px 17px 10px #8888;
+    height: 300px;
+    width: 500px;
+    margin-right: 50px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-left: 10px solid green;
+
+
+
+}
+
+
+
+.last {
+    color: rgb(20, 20, 83);
+    height: 300px;
+    width: 500px;
+    margin-right: 50px;
+    padding-left: 20px;
+    padding-right: 20px;
+    box-shadow: 0px 2px 17px 10px #8888;
+    border-left: 10px solid rgb(128, 0, 4);
+
+}
+
+
+
+.last-section {
+
+
+
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left center;
+
+}
+
+
+
+
+footer p {
+    text-align: center;
+
+    text-decoration: underline;
+}
